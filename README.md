@@ -4,6 +4,6 @@ A simple implementation in Python of this:
 
 Instructions:
 1. Clone repo.
-2. Place desired .webloc file in same directory as script.
-3. Call script from command line with webloc filename as argument.
-4. Find similarly-named html result at same place.
+2. Place .webloc file in same directory as script.
+3. Call (Python3) script from command line with .webloc file as argument.
+4. Find similarly-named .html file at same place.
